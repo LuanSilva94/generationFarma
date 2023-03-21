@@ -1,0 +1,5 @@
+package org.generation.generationfarma.repository;
+
+public interface ProdutoRepository {
+
+}
